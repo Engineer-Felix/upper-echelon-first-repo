@@ -1,2 +1,2 @@
-# upper echelon-first-repo
+# upperechelon-first-repo
 My first repository
